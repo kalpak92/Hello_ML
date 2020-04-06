@@ -1,9 +1,7 @@
-# 18.065_lecture_notes
-Lecture notes of "Matrix Methods in Data Analysis, Signal Processing, and Machine Learning"
+# 18.065  - Matrix Methods in Data Analysis, Signal Processing and Machine Learning
+MIT OpenCourseWare by Gilbert Strang http://t.cn/EKdMLqN
 
-Course: **Matrix Methods in Data Analysis, Signal Processing, and Machine Learning** | Mathematics | MIT OpenCourseWareby Gilbert Strang http://t.cn/EKdMLqN
-
-- Lecture 1: **The Column Space of A Contains All Vect**
+- Lecture 1: **The Column Space of A Contains All Vector**
 - Lecture 2: **Multiplying and Factoring Matrices** 
 - Lecture 3: **Orthonormal Columns in Q Give Q^TQ=I**
 - Lecture 4: **Eigenvalues and Eigenvectors**
