@@ -1,0 +1,8 @@
+*.vscode
+__pycache__
+*.pyc
+*.npy
+*.zip
+*.tar
+*.idea
+model/
